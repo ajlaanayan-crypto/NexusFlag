@@ -26,7 +26,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ["'Plus Jakarta Sans'", "'Inter'", "-apple-system", "BlinkMacSystemFont", "sans-serif"],
-        mono: ["'JetBrains Mono'"],
+        mono: ["'JetBrains Mono'", "Fira Code", "monospace"],
       },
     },
   },
