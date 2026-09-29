@@ -12,3 +12,16 @@ yarn-error.log*
 .env*.local
 .env
 .vercel
+
+# Auto-added standard ignores
+*.env
+.env.*.local
+.env.local
+.next/
+.pnp.js
+.pnp/
+.turbo/
+Thumbs.db
+build/
+dist/
+node_modules/
